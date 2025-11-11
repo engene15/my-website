@@ -1,3 +1,3 @@
 function showMessage() {
-  alert("Hello! Your website is working locally!");
+  alert("✨ Thanks for visiting! ✨");
 }
